@@ -23,7 +23,7 @@
    python main.py
    ```
 
-## WebUI (Optional)
+## WebUI for Milvus (Optional)
 Run Attu for Milvus management:
 ```bash
 docker run -d \
