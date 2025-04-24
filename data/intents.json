@@ -1,0 +1,173 @@
+[
+    {
+      "intent": "Clarify delivery location",
+      "example questions": [
+        "Delivered to the address or the port?"
+      ]
+    },
+    {
+      "intent": "Negotiate price",
+      "example questions": [
+        "Can the pricing be any better and how soon can you dispatch it?",
+        "Is it possible we can get the 1st pallet for $5.1 / KG?",
+        "please let us know the best price."
+      ]
+    },
+    {
+      "intent": "Ask shipping/dispatch timing",
+      "example questions": [
+        "how soon can you dispatch it?",
+        "please let me know how soon you can ship the cashew butter."
+      ]
+    },
+    {
+      "intent": "Request contact information",
+      "example questions": [
+        "Hello @84336772305 do you know any ice cream manufacturer in Vietnam?",
+        "Do you have any contact?"
+      ]
+    },
+    {
+      "intent": "Request freight cost",
+      "example questions": [
+        "Also we will need around 2 pallets delivering to this address can you please get the freight cost?"
+      ]
+    },
+    {
+      "intent": "Optimize packaging to reduce cost",
+      "example questions": [
+        "Is it possible we can reduce the shipping cost by optimizing the packaging?"
+      ]
+    },
+    {
+      "intent": "Request Certificate of Analysis (COA)",
+      "example questions": [
+        "also can you provide the COA as it will be required for our Quality Department."
+      ]
+    },
+    {
+      "intent": "Ask payment terms",
+      "example questions": [
+        "also please let me know how are the payment terms..."
+      ]
+    },
+    {
+      "intent": "Request currency/price conversion",
+      "example questions": [
+        "Also can you please offer me the Canadian / Vietnam price conversion because our ice cream company does not have USD account."
+      ]
+    },
+    {
+      "intent": "Confirm product quality",
+      "example questions": [
+        "just double confirming the quality is going to be same as this one right?"
+      ]
+    },
+    {
+      "intent": "Confirm sample list",
+      "example questions": [
+        "Can you confirm all the samples you will be bringing?"
+      ]
+    },
+    {
+      "intent": "Evaluate product taste change",
+      "example questions": [
+        "Has the coconut smell / taste gotten stronger?",
+        "Can you open and smell/taste the kaya?"
+      ]
+    },
+    {
+      "intent": "Halal certification details",
+      "example questions": [
+        "But are the other ingredients Halal certified?",
+        "But this doesn’t include our products, does it? Can we get them to amend and include our spreads?"
+      ]
+    },
+    {
+      "intent": "Confirm accreditation authority",
+      "example questions": [
+        "Also, can you confirm if this is the accreditation authority for TBK?"
+      ]
+    },
+    {
+      "intent": "Understand certification cost implications",
+      "example questions": [
+        "They already have Halal cert? Meaning we won’t need to spend the SGD 1,600 for certification?"
+      ]
+    },
+    {
+      "intent": "Request additional samples",
+      "example questions": [
+        "Was hoping to get a sample of the cashew/hazelnut/chocolate. And perhaps Kaya with reduced coconut"
+      ]
+    },
+    {
+      "intent": "Schedule follow-up call",
+      "example questions": [
+        "Can we set up a call with @6581183652 to run through?"
+      ]
+    },
+    {
+      "intent": "Compare pricing and negotiate",
+      "example questions": [
+        "How does the 7.7usd/kg compare to the last supply? The costing is making it very low profitability for us so we would need to see a big improvement."
+      ]
+    },
+    {
+      "intent": "inquire product season",
+      "example questions": [
+        "When will mango season"
+      ]
+    },
+    {
+      "intent": "request product demonstration",
+      "example questions": [
+        "Can you cut coconut and show me"
+      ]
+    },
+    {
+      "intent": "check shipment status",
+      "example questions": [
+        "Did you loaded mango and coconut"
+      ]
+    },
+    {
+      "intent": "inquire product price",
+      "example questions": [
+        "What about Lime price"
+      ]
+    },
+    {
+      "intent": "Request pricing information",
+      "example questions": [
+        "Can you please tell the pricing",
+        "Please let me know the pricing",
+        "price per KG ?",
+        "Price is in CAD ?",
+        "or USD",
+        "Could you share your target price to Vancouver?",
+        "I mean please share the price for 20 Ltr Bag in Box 24% Fat"
+      ]
+    },
+    {
+      "intent": "Compare pricing with alternative supplier",
+      "example questions": [
+        "this is more expensive then what we are getting from Sri Lanka"
+      ]
+    },
+    {
+      "intent": "Confirm packaging and volume options",
+      "example questions": [
+        "so 2 Ltr ?",
+        "Or even 250g",
+        "500g should be ok"
+      ]
+    },
+    {
+      "intent": "Request product sample",
+      "example questions": [
+        "And can you send some sample ?"
+      ]
+    }
+  ]
+  

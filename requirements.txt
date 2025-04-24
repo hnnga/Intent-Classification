@@ -1,0 +1,5 @@
+openai
+langgraph
+sentence-transformers
+pymilvus
+dotenv
